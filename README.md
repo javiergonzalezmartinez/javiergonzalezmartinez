@@ -18,6 +18,7 @@ Consultor de operaciones industriales e Industria 4.0. Eficiencia de planta, cal
 ## Open work / Trabajo abierto
 
 
+- [line-sim](https://github.com/javiergonzalezmartinez/line-sim): digital twin of a fictitious pharma plant. Discrete-event simulation from a two-station line to a whole factory, with live dashboard. Synthetic data only.
 - [ops-toolkit](https://github.com/javiergonzalezmartinez/ops-toolkit): hourly cost and OEE formulas, with tests.
 - [e2b](https://e2building.com): templates and guides for SMB operations (ES/EN).
 
